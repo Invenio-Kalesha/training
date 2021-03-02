@@ -1,0 +1,6 @@
+Using CATALINA_BASE:   "E:\tomcat8"
+Using CATALINA_HOME:   "E:\tomcat8"
+Using CATALINA_TMPDIR: "E:\tomcat8\temp"
+Using JRE_HOME:        "C:\Program Files\Java\jdk1.8.0_151"
+Using CLASSPATH:       "E:\tomcat8\bin\bootstrap.jar;E:\tomcat8\bin\tomcat-juli.jar"
+Using CATALINA_OPTS:   ""
