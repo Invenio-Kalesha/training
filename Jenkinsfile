@@ -1,6 +1,6 @@
 #!/usr/bin/env groovy
 
-projectName = 'esp-pipeline'
+projectName = 'esp-pipeline' new code
 
 node() {
     ansiColor('xterm') {
